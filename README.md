@@ -39,24 +39,37 @@
 
 
 ## Miscallaneous
-<details>	
+<!-- <details>	 -->
   <summary><b>⚡ GitHub Stats</b></summary>
 <br/>
-  
   <a href="https://github.com/Shreyaar12">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=Shreyaar12&theme=bear" />
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=Shreyaar12&theme=bear" /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Shreyaar12&count_private=true&show_icons=true&theme=bear" />
 </a>
-</details>
+<!-- </details> -->
 
-<details>
+<!-- <details>
 <summary><b>👨‍💻 Weekly Stats</b></summary>
 <br/>
 <!-- can add wakatime here -->
-<!-- need to use github workflow -->
-</details>
+<!-- need to use github workflow
+</details> -->
 
-
+<!-- <details>	 -->
+  <summary><b>🧏‍♀️ Top Languages Used</b></summary>
+<br/>
+  
+<!--   <a href="https://github.com/Shreyaar12"> -->
+<!--   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=Shreyaar12&theme=bear" /> -->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaar12&layout=compact)](https://github.com/shreyaar12/github-readme-stats)
+<!-- </a> -->
+<!-- </details> -->
+<!-- 
+[![Shreya's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreyaar12)](https://github.com/shreyaar12/github-readme-stats)
+ -->
+ 
 <br/>
  <h3>Find me On </h3>
  <a href="https://www.linkedin.com/in/shreya-rajpal-817066221/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
