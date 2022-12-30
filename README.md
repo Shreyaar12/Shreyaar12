@@ -73,3 +73,16 @@
  <h3>Find me On </h3>
  <a href="https://www.linkedin.com/in/shreya-rajpal-817066221/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
+
+<!--- M Y   T O P   R E P O --->
+
+<h2 align="center">💾 REPOSITORIES 💾</h2>
+<br>
+<div width="100%" align="center">
+  <!--- Repo #1 --->
+  <a align="right" href="https://github.com/Shreyaar12/Foodico" title="One stop solution for your dining needs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=Foodico&theme=react&border_color=61dafb&border_radius=10"></a>
+  <!--- Repo #2 --->
+  <a align="left" href="https://github.com/Shreyaar12/Codeial-social-app" title="A social media website made with React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=Codeial-social-app&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
