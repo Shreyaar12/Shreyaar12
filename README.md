@@ -45,8 +45,8 @@ Currently a student at Vellore Institute of Technology actively looking for oppo
   <summary><b>⚡ GitHub Stats</b></summary>
 <br/>
   <a href="https://github.com/Shreyaar12">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=Shreyaar12&theme=bear" /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyaar12&count_private=true&show_icons=true&theme=bear" />
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=Shreyaar12&theme=tokyonight" /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyaar12&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <!-- </details> -->
 
