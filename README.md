@@ -1,7 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Shreya
 
-
-
+<b>Practical and versatile Software Engineering student actively involved in web development and collaborating, working side by side with people of all backgrounds and disciplines.
+  <br />
+Currently a student at Vellore Institute of Technology actively looking for opportunities to collaborate in frontend web development and Machine Learning.
+</b>
 ### A Tech geek who is enthusiastic to learn new things everyday
 ![Profile Views](https://komarev.com/ghpvc/?username=Shreyaar12)
 
