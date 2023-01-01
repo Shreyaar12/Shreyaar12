@@ -91,7 +91,7 @@ Currently a student at Vellore Institute of Technology actively looking for oppo
   <!--- Repo #3 --->
   <a align="left" href="https://github.com/Shreyaar12/Movie-app" title="Favourite/Unfavourite movies"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=Movie-App&theme=react&border_color=61dafb&border_radius=10"></a>
   <!--- Repo #4 --->
-  <a align="right" href="https://github.com/Shreyaar12/IEEE-WIE-Youtube-Live-Project" title="Simple calculator to learn React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=IEEE-WIE-Youtube-Live-Project&theme=react&border_color=61dafb&border_radius=9"></a>
+  <a align="right" href="https://github.com/Shreyaar12/IEEE-WIE-Youtube-Live-Project" title="Simple calculator to learn React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=IEEE-WIE-Youtube-Live&theme=react&border_color=61dafb&border_radius=9"></a>
 </div>
 
 <br><br><br><br><br><br>
