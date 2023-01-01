@@ -89,28 +89,9 @@ Currently a student at Vellore Institute of Technology actively looking for oppo
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <!--- Repo #3 --->
-
-  <!--- Repo #4 --->
-  <a align="right" href="https://github.com/Shreyaar12/RNzone" title="News Application made with React-Native"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=RNzone&theme=react&border_color=61dafb&border_radius=9"></a>
-</div>
-
-<br><br><br><br><br><br>
-
-
-<h2 align="center">💾 REPOSITORIES 💾</h2>
-<br>
-<div width="100%" align="center">
-  <!--- Repo #1 --->
-  <a align="right" href="https://github.com/Rachit-Pal/NekoRobot" title="Powerful telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoRobot&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--- Repo #2 --->
-  <a align="left" href="https://github.com/Rachit-Pal/NekoMusic" title="Telegram VC Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoMusic&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <!--- Repo #3 --->
   <a align="left" href="https://github.com/Shreyaar12/Movie-App title="Website to browse through latest movies"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=Movie-App&theme=react&border_color=61dafb&border_radius=10"></a>
   <!--- Repo #4 --->
-  <a align="right" href="https://github.com/Rachit-Pal/AlbedoBot" title="Anime themed group management bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=AlbedoBot&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Shreyaar12/RNzone" title="News Application made with React-Native"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=RNzone&theme=react&border_color=61dafb&border_radius=9"></a>
 </div>
 
 <br><br><br><br><br><br>
