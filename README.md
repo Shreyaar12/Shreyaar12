@@ -51,7 +51,7 @@ Currently a student at Vellore Institute of Technology actively looking for oppo
   <img src="https://github-readme-stats.vercel.app/api?username=Shreyaar12&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <!-- </details> -->
-
+<!--- Weekly stats  --->
 <!-- <details>
 <summary><b>👨‍💻 Weekly Stats</b></summary>
 <br/>
