@@ -2,7 +2,7 @@
 <section id="#top">  </section>
 <b>Practical and versatile Software Engineering student actively involved in web development and collaborating, working side by side with people of all backgrounds and disciplines.
   <br />
-Currently a student at Vellore Institute of Technology actively looking for opportunities to collaborate in frontend web development and Machine Learning.
+Currently a student at Vellore Institute of Technology actively looking for opportunities to collaborate in frontend web development, app development and Machine Learning.
 </b>
  
 
