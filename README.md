@@ -12,11 +12,12 @@ Currently a student at Vellore Institute of Technology actively looking for oppo
 - 💬 I'm interested in Coding, Travelling and Reading
 - 📫 Reach me at [email](mailto:<shreyarajpal3116@gmail.com>) :)
   <!-- don't put ur gmail one, put a protonmail or something like that 
-        like i have bear@tamako.tech -->      
+        like i have bear@tamako.tech -->
 - 🔥 Hit me up for talks and discussion on Machine Learning and Frontend Web dev and App dev
+- Currently a visiting research intern at Hamburg University,Germany
 <!-- idk u can delete this ig, just put if u wanted to -->
 - Currently Learning Machine Learning 
-- 🧠 Currently a Freshman at Vellore Institute of Technology, Vellore, pursuing Computer Science and Business Systems <!-- and coping LMFAO jkjk -->
+- 🧠 Currently in my pre-final year at Vellore Institute of Technology, Vellore, pursuing Computer Science and Business Systems <!-- and coping LMFAO jkjk -->
 
 **Technologies:**  
 <!-- skills badges -->
