@@ -3,7 +3,7 @@
 <b>Practical and versatile Software Engineering student actively involved in web development and collaborating, working side by side with people of all backgrounds and disciplines.
   <br />
 Exploring the world of AI and NLP 
-Currently a student at Vellore Institute of Technology actively looking for opportunities to collaborate in frontend web development, app development and Machine Learning.
+Currently a student at Vellore Institute of Technology actively looking for opportunities to collaborate in MERN stack web development, app development and Machine Learning.
 </b>
  
 
@@ -12,9 +12,8 @@ Currently a student at Vellore Institute of Technology actively looking for oppo
 
 - 💬 I'm interested in Coding, Travelling and Reading
 - 📫 Reach me at [email](mailto:<shreyarajpal3116@gmail.com>) :)
-  <!-- don't put ur gmail one, put a protonmail or something like that 
-        like i have bear@tamako.tech -->
-- 🔥 Hit me up for talks and discussion on Machine Learning and Frontend Web dev and App dev
+
+- 🔥 Hit me up for talks and discussion on Machine Learning and MERN stack Web dev and App dev
 - Currently a visiting research intern at Hamburg University,Germany
 <!-- idk u can delete this ig, just put if u wanted to -->
 - Currently Learning Machine Learning 
