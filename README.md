@@ -7,7 +7,7 @@ With a versatile background in software engineering and full stack (web and app)
   I’m on the lookout for exciting research projects that challenge the status quo in AI, NLP, and beyond. Let’s build the future of AI together! 💡</b>
  
 
-### A Tech geek who is enthusiastic to learn new things everyday
+#### A Tech geek who is enthusiastic to learn new things everyday
 ![Profile Views](https://komarev.com/ghpvc/?username=Shreyaar12)
 
 - 💬 I'm interested in Coding, Travelling and Reading
@@ -42,7 +42,7 @@ With a versatile background in software engineering and full stack (web and app)
 
 
 
-## Miscallaneous
+#### Some super cool stats
 <!-- <details>	 -->
   <summary><b>⚡ GitHub Stats</b></summary>
 <br/>
@@ -80,7 +80,7 @@ With a versatile background in software engineering and full stack (web and app)
 
 <!--- M Y   T O P   R E P O --->
 
-<h2 align="center">💾 REPOSITORIES 💾</h2>
+<h3 align="center">💾 REPOSITORIES 💾</h3>
 <br>
 <div width="100%" align="center">
   <!--- Repo #1 --->
