@@ -1,10 +1,10 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Shreya
-<section id="#top">  </section>
-<b>Practical and versatile Software Engineering student actively involved in web development and collaborating, working side by side with people of all backgrounds and disciplines.
-  <br />
-Exploring the world of AI and NLP 
-Currently a student at Vellore Institute of Technology actively looking for opportunities to collaborate in MERN stack web development, app development and Machine Learning.
-</b>
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I’m Shreya
+<section id="#top"></section>
+<b>Driven by curiosity and a love for problem-solving, I’m exploring the endless possibilities of AI, especially in language models and generative AI. 🧠💡
+  <br>
+With a versatile background in software engineering and full stack (web and app) development, I thrive on collaborating with brilliant minds across diverse fields, solving complex problems one algorithm at a time. 🚀 
+    <br>
+  I’m on the lookout for exciting research projects that challenge the status quo in AI, NLP, and beyond. Let’s build the future of AI together! 💡</b>
  
 
 ### A Tech geek who is enthusiastic to learn new things everyday
