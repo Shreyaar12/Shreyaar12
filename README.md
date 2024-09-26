@@ -8,7 +8,7 @@ With a versatile background in software engineering and full stack (web and app)
  
 
 #### A Tech geek who is enthusiastic to learn new things everyday
-![Profile Views](https://komarev.com/ghpvc/?username=Shreyaar12)
+![Profile Views](https://komarev.com/ghpvc/?username=shreyarajpal12)
 
 - 💬 I'm interested in Coding, Travelling and Reading
 - 📫 Reach me at [email](mailto:<shreyarajpal3116@gmail.com>) :)
@@ -46,9 +46,9 @@ With a versatile background in software engineering and full stack (web and app)
 <!-- <details>	 -->
   <summary><b>⚡ GitHub Stats</b></summary>
 <br/>
-  <a href="https://github.com/Shreyaar12">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=Shreyaar12&theme=tokyonight" /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyaar12&count_private=true&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/shreyarajpal12">
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=shreyarajpal12&theme=tokyonight" /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyarajpal12&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <!-- </details> -->
 <!--- Weekly stats  --->
@@ -63,14 +63,14 @@ With a versatile background in software engineering and full stack (web and app)
   <summary><b>🧏‍♀️ Top Languages Used</b></summary>
 <br/>
   
-<!--   <a href="https://github.com/Shreyaar12"> -->
-<!--   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=Shreyaar12&theme=bear" /> -->
+<!--   <a href="https://github.com/shreyarajpal12"> -->
+<!--   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=shreyarajpal12&theme=bear" /> -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaar12&layout=compact)](https://github.com/shreyaar12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyarajpal12&layout=compact)](https://github.com/shreyarajpal12/github-readme-stats)
 <!-- </a> -->
 <!-- </details> -->
 <!-- 
-[![Shreya's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreyaar12)](https://github.com/shreyaar12/github-readme-stats)
+[![Shreya's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreyarajpal12)](https://github.com/shreyarajpal12/github-readme-stats)
  -->
  
 <br/>
@@ -84,16 +84,16 @@ With a versatile background in software engineering and full stack (web and app)
 <br>
 <div width="100%" align="center">
   <!--- Repo #1 --->
-  <a align="right" href="https://github.com/Shreyaar12/Foodico" title="One stop solution for your dining needs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=Foodico&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/shreyarajpal12/Foodico" title="One stop solution for your dining needs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=Foodico&theme=react&border_color=61dafb&border_radius=10"></a>
   <!--- Repo #2 --->
-  <a align="left" href="https://github.com/Shreyaar12/Codeial-social-app" title="A social media website made with React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=Codeial-social-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/shreyarajpal12/Codeial-social-app" title="A social media website made with React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=Codeial-social-app&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <!--- Repo #3 --->
-  <a align="left" href="https://github.com/Shreyaar12/Movie-App title="Website to browse through latest movies"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=Movie-App&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/shreyarajpal12/Movie-App title="Website to browse through latest movies"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=Movie-App&theme=react&border_color=61dafb&border_radius=10"></a>
   <!--- Repo #4 --->
-  <a align="right" href="https://github.com/Shreyaar12/RNzone" title="News Application made with React-Native"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyaar12&repo=RNzone&theme=react&border_color=61dafb&border_radius=9"></a>
+  <a align="right" href="https://github.com/shreyarajpal12/RNzone" title="News Application made with React-Native"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=RNzone&theme=react&border_color=61dafb&border_radius=9"></a>
 </div>
 
 <br><br><br><br><br><br>
@@ -104,7 +104,7 @@ With a versatile background in software engineering and full stack (web and app)
 <!--- S H O W   M O R E --->
 
 <h4 align="center">
-  <a href="https://github.com/Shreyaar12?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/shreyarajpal12?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <br>
