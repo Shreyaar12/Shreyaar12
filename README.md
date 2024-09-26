@@ -8,7 +8,7 @@ With a versatile background in software engineering and full stack (web and app)
  
 
 #### A Tech geek who is enthusiastic to learn new things everyday
-![Profile Views](https://komarev.com/ghpvc/?username=shreyarajpal12)
+![Profile Views](https://komarev.com/ghpvc/?username=Shreyaar12)
 
 - 💬 I'm interested in Coding, Travelling and Reading
 - 📫 Reach me at [email](mailto:<shreyarajpal3116@gmail.com>) :)
